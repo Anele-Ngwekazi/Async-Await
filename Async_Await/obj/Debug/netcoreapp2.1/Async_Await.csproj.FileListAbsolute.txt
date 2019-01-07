@@ -1,0 +1,11 @@
+C:\source\Async_Await\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.deps.json
+C:\source\Async_Await\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.runtimeconfig.json
+C:\source\Async_Await\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.runtimeconfig.dev.json
+C:\source\Async_Await\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.dll
+C:\source\Async_Await\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.pdb
+C:\source\Async_Await\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.csprojAssemblyReference.cache
+C:\source\Async_Await\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.csproj.CoreCompileInputs.cache
+C:\source\Async_Await\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.AssemblyInfoInputs.cache
+C:\source\Async_Await\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.AssemblyInfo.cs
+C:\source\Async_Await\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.dll
+C:\source\Async_Await\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.pdb
